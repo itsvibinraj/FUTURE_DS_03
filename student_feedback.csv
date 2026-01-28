@@ -1,0 +1,101 @@
+Student_ID,Event_Name,Department,Rating,Comments
+STU101,Career Seminar,Industrial,2,The venue was spacious and comfortable.
+STU102,Career Seminar,EEE,5,"Interesting, but not what was advertised."
+STU103,Cultural Night,Industrial,4,Loved the cultural performances!
+STU104,AI Workshop,EEE,5,"Complete chaos, nobody knew where to go."
+STU105,Career Seminar,CIVIL,4,The guest speaker was incredibly inspiring.
+STU106,Hackathon,Industrial,4,"Interesting, but not what was advertised."
+STU107,Hackathon,CIVIL,4,Too crowded and hot.
+STU108,AI Workshop,MECH,3,Too crowded and hot.
+STU109,AI Workshop,ECE,5,Boring and too long.
+STU110,Career Seminar,ECE,4,Boring and too long.
+STU111,Hackathon,MECH,2,"The food was good, but the lines were huge."
+STU112,AI Workshop,CSE,5,"Good topic, but the session dragged on too long."
+STU113,Cultural Night,Industrial,5,Ran out of food before I could get any.
+STU114,AI Workshop,CIVIL,5,"Content was basic, expected something more advanced."
+STU115,Cultural Night,MECH,4,Best event of the semester so far.
+STU116,Tech Fest,MECH,4,Amazing experience! learned a lot.
+STU117,Tech Fest,CIVIL,4,Ran out of food before I could get any.
+STU118,Hackathon,CSE,3,"The microphone kept cutting out, couldn't hear."
+STU119,Tech Fest,CSE,5,The speaker was very knowledgeable.
+STU120,Career Seminar,Industrial,4,"Great speakers, but the venue was too small."
+STU121,Cultural Night,CSE,5,The wifi was terrible during the event.
+STU122,Career Seminar,ECE,4,"High-quality content, very relevant to my course."
+STU123,Hackathon,MECH,4,The speaker was very knowledgeable.
+STU124,Cultural Night,ECE,2,"The microphone kept cutting out, couldn't hear."
+STU125,Cultural Night,Industrial,3,Amazing experience! learned a lot.
+STU126,Tech Fest,CIVIL,2,The venue was spacious and comfortable.
+STU127,Tech Fest,Industrial,5,The wifi was terrible during the event.
+STU128,Hackathon,EEE,4,The room was freezing cold.
+STU129,Tech Fest,CSE,3,Best event of the semester so far.
+STU130,Cultural Night,ECE,5,"Well organized, kudos to the team."
+STU131,Hackathon,MECH,4,Boring and too long.
+STU132,Cultural Night,ECE,2,"Interesting, but not what was advertised."
+STU133,Cultural Night,EEE,5,Amazing experience! learned a lot.
+STU134,Hackathon,MECH,1,The room was freezing cold.
+STU135,AI Workshop,ECE,4,Too crowded and hot.
+STU136,Hackathon,CSE,5,"Complete chaos, nobody knew where to go."
+STU137,AI Workshop,EEE,4,Great networking opportunities with seniors.
+STU138,Hackathon,CIVIL,2,"The food was good, but the lines were huge."
+STU139,AI Workshop,CIVIL,4,The room was freezing cold.
+STU140,Hackathon,Industrial,4,The venue was spacious and comfortable.
+STU141,Cultural Night,Industrial,5,Hands-on session was very helpful.
+STU142,Hackathon,EEE,2,The venue was spacious and comfortable.
+STU143,Hackathon,Industrial,5,Hands-on session was very helpful.
+STU144,Cultural Night,MECH,5,"Interesting, but not what was advertised."
+STU145,AI Workshop,CIVIL,4,"Not what I expected, waste of time."
+STU146,Tech Fest,CSE,4,Best event of the semester so far.
+STU147,Hackathon,CIVIL,3,Great networking opportunities with seniors.
+STU148,Cultural Night,CIVIL,4,Amazing experience! learned a lot.
+STU149,Hackathon,MECH,4,"Registration took forever, missed the start."
+STU150,Career Seminar,CSE,5,Great networking opportunities with seniors.
+STU151,Cultural Night,CSE,4,"Registration took forever, missed the start."
+STU152,Career Seminar,EEE,3,"The food was good, but the lines were huge."
+STU153,AI Workshop,ECE,1,The speaker was very knowledgeable.
+STU154,Cultural Night,EEE,4,"Content was basic, expected something more advanced."
+STU155,AI Workshop,MECH,3,"The microphone kept cutting out, couldn't hear."
+STU156,Hackathon,MECH,4,Best event of the semester so far.
+STU157,Tech Fest,ECE,1,The wifi was terrible during the event.
+STU158,Tech Fest,EEE,4,Too crowded and hot.
+STU159,Career Seminar,CSE,4,Too crowded and hot.
+STU160,Tech Fest,ECE,4,"Perfectly managed, everything was on time."
+STU161,Career Seminar,ECE,5,Too crowded and hot.
+STU162,Hackathon,Industrial,4,"Great speakers, but the venue was too small."
+STU163,AI Workshop,MECH,2,"Well organized, kudos to the team."
+STU164,Career Seminar,Industrial,4,Ran out of food before I could get any.
+STU165,Hackathon,CSE,2,Boring and too long.
+STU166,Tech Fest,Industrial,2,"Registration took forever, missed the start."
+STU167,Hackathon,EEE,5,"Complete chaos, nobody knew where to go."
+STU168,Career Seminar,MECH,4,The speaker was very knowledgeable.
+STU169,AI Workshop,CIVIL,5,The venue was spacious and comfortable.
+STU170,Career Seminar,ECE,3,"Complete chaos, nobody knew where to go."
+STU171,Career Seminar,Industrial,4,The guest speaker was incredibly inspiring.
+STU172,Career Seminar,MECH,3,Boring and too long.
+STU173,AI Workshop,EEE,5,Hands-on session was very helpful.
+STU174,Career Seminar,ECE,4,"The microphone kept cutting out, couldn't hear."
+STU175,Career Seminar,MECH,5,The presentation was too technical and confusing.
+STU176,Cultural Night,CIVIL,5,Great networking opportunities with seniors.
+STU177,AI Workshop,CSE,2,The room was freezing cold.
+STU178,AI Workshop,EEE,2,Amazing experience! learned a lot.
+STU179,Hackathon,EEE,5,"The food was good, but the lines were huge."
+STU180,Cultural Night,CIVIL,2,Loved the cultural performances!
+STU181,Cultural Night,EEE,3,Best event of the semester so far.
+STU182,Cultural Night,ECE,5,Chairs were uncomfortable for such a long session.
+STU183,Career Seminar,CIVIL,4,"Interesting, but not what was advertised."
+STU184,Tech Fest,CSE,5,"Well organized, kudos to the team."
+STU185,Tech Fest,CSE,1,Best event of the semester so far.
+STU186,Hackathon,CIVIL,4,Great food but the event started late.
+STU187,Cultural Night,ECE,5,"The food was good, but the lines were huge."
+STU188,Tech Fest,EEE,5,Great food but the event started late.
+STU189,Cultural Night,EEE,2,The venue was spacious and comfortable.
+STU190,Cultural Night,EEE,4,Boring and too long.
+STU191,Cultural Night,EEE,3,"Well organized, kudos to the team."
+STU192,Career Seminar,CSE,4,"Content was basic, expected something more advanced."
+STU193,Career Seminar,ECE,4,Hands-on session was very helpful.
+STU194,Cultural Night,MECH,1,The room was freezing cold.
+STU195,AI Workshop,CSE,5,"Perfectly managed, everything was on time."
+STU196,Career Seminar,ECE,2,Boring and too long.
+STU197,Hackathon,CSE,4,Loved the cultural performances!
+STU198,Hackathon,CSE,4,The guest speaker was incredibly inspiring.
+STU199,AI Workshop,ECE,5,"Not what I expected, waste of time."
+STU200,Hackathon,ECE,4,"Good topic, but the session dragged on too long."
